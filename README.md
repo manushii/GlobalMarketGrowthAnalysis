@@ -1,1 +1,1 @@
-# GlobalMarketGrowthAnalysis
+Conducted a 10-year comparative analysis of global stock market performance, leveraging data analytics and visualization to highlight economic trends and growth disparities across the US, UK, India, and China.
